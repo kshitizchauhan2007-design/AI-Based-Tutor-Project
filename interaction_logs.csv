@@ -1,0 +1,14 @@
+timestamp,question,answer,best_similarity,source_chapters,source_pages,num_sources
+2026-09-03T22:03:02,What is a crop?,"1. Keeping crop grains for a long time under proper conditions. 2. Maintaining the crop grain. 3. A machine used for cutting the matured crop. 4. A rabi crop that is also one of the pulses. 5. Crops of different types like cereals, vegetables and fruits. 6. A process of separating the grain from chaff.",0.6046,Crop Production and Management,1; 15; 13,3
+2026-09-03T22:03:02,What is weeding?,turning and loosening of soil,0.6336,Crop Production and Management,10; 3; 4,3
+2026-09-03T22:03:02,What is fermentation?,"animals, ranging from ice cold climate to hot springs; and deserts to marshy lands",0.5212,Microorganisms: Friend and Foe,20; 19; 29,3
+2026-09-03T22:03:02,What is malleability?,I'm focused on Class 8 Science. I could not find this information in the available textbook material.,,,,0
+2026-09-03T22:03:02,What is the basic structural unit of a living organism?,cells are assembled to make the body of every organism.,0.5338,Cell — Structure and Functions,90; 93; 97,3
+2026-09-03T22:03:02,Why is friction called a necessary evil?,You must have seen worn-out steps of foot over -bridges at railway stations.,0.505,Friction,150; 152; 146,3
+2026-09-03T22:03:02,What is rolling friction?,"If the context does not contain enough information, say: ""I'm focused on Class 8 Science. I could not find this information in the available textbook material.""",0.5928,Friction,152; 146; 154,3
+2026-09-03T22:03:02,What produces sound?,AMPLITUDE EARDRUM FREQUENCY hertz (Hz) LARYNX LOUDNESS NOISE OSCILLATION PITCH TIME PERIOD VIBRATION VOICE BOX WIND PIPE,0.5434,Sound,166; 168; 169,3
+2026-09-03T22:03:02,What determines the pitch of a sound?,HA OU,0.4915,Sound,166; 168; 157,3
+2026-09-03T22:03:02,What is a chloroplast?,the jelly-like substance present between the cell membrane and the nucleus,0.5498,Cell — Structure and Functions,96; 95; 97,3
+2026-09-06T18:28:17,What is friction?,if there were no friction between the chalk and the board,0.6101717948913574,Friction,146; 151; 150,3
+2026-09-06T18:28:59,What is light ?,16.14).,0.4955326914787292,Light,199; 205; 206,3
+2026-09-06T18:29:46,Why congress is bad ?,I'm focused on Class 8 Science; I could not find enough information about this in the textbook. Try re-phrasing your question.,0.23659855127334595,Materials: Metals and Non-Metals; Chemical Effects of Electric Current; Combustion and Flame,45; 175; 73,3
