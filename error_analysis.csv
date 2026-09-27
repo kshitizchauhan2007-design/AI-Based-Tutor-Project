@@ -1,0 +1,11 @@
+id,question,BLEU,ROUGE-L,Correctness,Relevance,Reviewer_Comments,best_similarity,source_chapters,source_pages,Error_Type
+1,What is a crop?,0.0162,0.1067,4,5,Correct textbook-based definition and concise explanation.,0.6046,Crop Production and Management,1; 15; 13,Acceptable
+2,What is weeding?,0.0306,0.1667,,,,0.6336,Crop Production and Management,10; 3; 4,Not Reviewed
+3,What is fermentation?,0.0,0.0,,,,0.5212,Microorganisms: Friend and Foe,20; 19; 29,Not Reviewed
+4,What is malleability?,0.0149,0.0588,,,,,,,Not Reviewed
+5,What is the basic structural unit of a living organism?,0.0279,0.381,,,,0.5338,Cell — Structure and Functions,90; 93; 97,Not Reviewed
+6,Why is friction called a necessary evil?,0.0,0.0,,,,0.505,Friction,150; 152; 146,Not Reviewed
+7,What is rolling friction?,0.0125,0.087,,,,0.5928,Friction,152; 146; 154,Not Reviewed
+8,What produces sound?,0.0,0.0909,,,,0.5434,Sound,166; 168; 169,Not Reviewed
+9,What determines the pitch of a sound?,0.0,0.0,,,,0.4915,Sound,166; 168; 157,Not Reviewed
+10,What is a chloroplast?,0.0137,0.0714,,,,0.5498,Cell — Structure and Functions,96; 95; 97,Not Reviewed
